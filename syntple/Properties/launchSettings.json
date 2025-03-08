@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "syntple": {
+      "commandName": "Project",
+      "commandLineArgs": "/S:C:\\Users\\dmormile\\Downloads\\cob_inter\\dev\\CONTENT_XML_UNIURG.xml /F:notag.txt /R:T /L:codiceFiscale,denominazione"
+    }
+  }
+}
